@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image:url('Assets/background.jpg');
+    background-size: cover;
+    font-family: "Poppins", sans-serif;
+}
+
+.name-ory {
+    font-family: 'Fashion Wacks', sans-serif;                           
+}
+
+
+.navbar ul {
+    list-style: none;
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.navbar a {
+    /* background-color: white; */
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: .5rem;
+    font-size: 18px;
+    text-align: center;
+}
+
+.section:hover{
+    text-decoration: underline;
+}
+
+.top-right {
+    display: flex;
+    justify-content: flex-end;
+    gap: .5rem;
+}
