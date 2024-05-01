@@ -114,7 +114,7 @@ body {
 
 #navbar li a:hover, 
 #navbar li a.active {
-    color: #088178;
+    color: #24B500;
 }
 
 #navbar li a.active::after,
@@ -122,7 +122,7 @@ body {
     content: "";
     width: 30%;
     height: 2px;
-    background: #088178;
+    background: #24B500;
     position: absolute;
     bottom: -4px;
     left: 20px;
@@ -157,13 +157,13 @@ body {
 }
 
 #hero h1{
-    color: #088178;
+    color: #24B500;
 }
 
 #hero button{
     background-image: url("Assets/img/button.png");
     background-color: transparent;
-    color: #088178;
+    color: #24B500;
     border: 0;
     /* atas bawah kiri kanan */
     /* posisi background button */
@@ -205,7 +205,7 @@ body {
     padding: 9px 8px 6px 8px;
     line-height: 1;
     border-radius: 4px;
-    color: #088178;
+    color: #24B500;
     background-color: #fddde4;
 }
 
@@ -289,7 +289,7 @@ body {
     padding-top: 7px;
     font-size: 15px;
     font-weight: 700;
-    color: #088178;
+    color: #24B500;
 }
 
 #product1 .pro .cart{
@@ -299,7 +299,7 @@ body {
     border-radius: 50px;
     background-color: #e8f6ea;
     font-weight: 500;
-    color: #088178;
+    color: #24B500;
     border: 1px solid #cce7d0;
     position: absolute;
     bottom: 20px;
@@ -312,7 +312,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('Assets/img/banner/b2.jpg');
+    background-image: url('Assets/image/banner/b1.jpg');
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -335,7 +335,7 @@ body {
 }
 
 #banner button:hover {
-    background: #088178;
+    background: #24B500;
     color: #fff;
 }
 
@@ -350,7 +350,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url('Assets/img/banner/b17.jpg');
+    background-image: url('Assets/image/banner/b3.jpg');
     min-width: 530px;
     height: 50vh;
     background-size: cover;
@@ -359,7 +359,7 @@ body {
 }
 
 #sm-banner .banner-box2{
-    background-image: url('Assets/img/banner/b10.jpg');
+    background-image: url('Assets/image/banner/b2.jpg');
 }
 
 #sm-banner h4{
@@ -382,8 +382,8 @@ body {
 }
 
 #sm-banner .banner-box:hover button{
-    background: #088178;
-    border: 1px solid #088178;
+    background: #24B500;
+    border: 1px solid #24B500;
 }
 
 #banner3{
@@ -398,7 +398,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url('Assets/img/banner/b7.jpg');
+    background-image: url('Assets/image/banner/b4.jpg');
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -409,22 +409,22 @@ body {
 
 #banner3 h2{
     color: #fff;
-    font-weight: 900;
+    font-weight: 800;
     font-size: 22px;
 }
 
 #banner3 h3{
-    color: #ef3636;
-    font-weight: 800;
+    color: #fff;
+    font-weight: 300;
     font-size: 15px;
 }
 
 #banner3 .banner-box2{
-    background-image: url('Assets/img/banner/b4.jpg');
+    background-image: url('Assets/image/banner/b5.jpg');
 }
 
 #banner3 .banner-box3{
-    background-image: url('Assets/img/banner/b18.jpg');
+    background-image: url('Assets/image/banner/b6.jpg');
 }
 
 #newsletter{
@@ -432,7 +432,7 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url('Assets/img/banner/b14.png');
+    background-image: url('Assets/image/banner/b14.png');
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;
@@ -472,7 +472,7 @@ body {
 }
 
 #newsletter button{
-    background-color: #088178;
+    background-color: #24B500;
     color: #fff;
     white-space: nowrap;
     border-top-left-radius: 0;
@@ -525,7 +525,7 @@ footer .follow i{
 }
 
 footer .install .row img{
-    border: 1px solid #088178;
+    border: 1px solid #24B500;
     border-radius: 6px;
 }
 
@@ -536,7 +536,7 @@ footer .install img{
 
 footer .follow i:hover,
 footer a:hover{
-    color: #088178;
+    color: #24B500;
 }
 
 footer .copyright{
