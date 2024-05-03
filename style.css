@@ -30,7 +30,7 @@ h6 {
 
 p {
     font-size: 16px;
-    color: #465b52;
+    color: #000000;
     margin: 15px 0 20px 0;
 }
 
@@ -82,7 +82,7 @@ body {
     justify-content: space-between;
     /* atasbawah, kirikanan */
     padding: 20px 80px;
-    background-color: #E3E6F3;
+    background-color: #B9A08A;
     /* dari x, y, radius */
     /* box shadow digunakan untuk menambahkan bayangan dibawah navbar */
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
@@ -114,7 +114,7 @@ body {
 
 #navbar li a:hover, 
 #navbar li a.active {
-    color: #24B500;
+    color: #ffffff;
 }
 
 #navbar li a.active::after,
@@ -122,7 +122,7 @@ body {
     content: "";
     width: 30%;
     height: 2px;
-    background: #24B500;
+    background: #ffffff;
     position: absolute;
     bottom: -4px;
     left: 20px;
@@ -157,13 +157,13 @@ body {
 }
 
 #hero h1{
-    color: #24B500;
+    color: #ffffff;
 }
 
 #hero button{
     background-image: url("Assets/img/button.png");
     background-color: transparent;
-    color: #24B500;
+    color: #ffffff;
     border: 0;
     /* atas bawah kiri kanan */
     /* posisi background button */
@@ -174,7 +174,7 @@ body {
     font-size: 15px;
 }
 
-#feature{
+/* #feature{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -227,7 +227,7 @@ body {
 
 #feature .fe-box:nth-child(6) h6{
     background-color: #fff2e5;
-}
+} */
 
 #product1 {
     text-align: center;
@@ -246,7 +246,7 @@ body {
     width: 23%;
     min-width: 250px;
     padding: 10px 12px;
-    border: 1px solid #cce7d0;
+    border: 1px solid #614949;
     border-radius: 20px;
     cursor: pointer;
     box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
@@ -289,7 +289,7 @@ body {
     padding-top: 7px;
     font-size: 15px;
     font-weight: 700;
-    color: #24B500;
+    color: #614949;
 }
 
 #product1 .pro .cart{
@@ -297,10 +297,10 @@ body {
     height: 40px;
     line-height: 40px;
     border-radius: 50px;
-    background-color: #e8f6ea;
+    background-color: #ebddce;
     font-weight: 500;
-    color: #24B500;
-    border: 1px solid #cce7d0;
+    color: #614949;
+    border: 1px solid #E7CEB4;
     position: absolute;
     bottom: 20px;
     right: 10px;
@@ -335,7 +335,7 @@ body {
 }
 
 #banner button:hover {
-    background: #24B500;
+    background: #614949;
     color: #fff;
 }
 
@@ -382,8 +382,8 @@ body {
 }
 
 #sm-banner .banner-box:hover button{
-    background: #24B500;
-    border: 1px solid #24B500;
+    background: #614949;
+    border: 1px solid #614949;
 }
 
 #banner3{
@@ -435,23 +435,23 @@ body {
     background-image: url('Assets/image/banner/b14.png');
     background-repeat: no-repeat;
     background-position: 20% 30%;
-    background-color: #041e42;
+    background-color: #B9A08A;
 }
 
 #newsletter h4 {
     font-size: 22px;
     font-weight: 700;
-    color: #fff;
+    color: black;
 }
 
 #newsletter p {
     font-size: 14px;
     font-weight: 600;
-    color: #818ea0;
+    color: black;
 }
 
 #newsletter p span{
-    color: #ffbd27;
+    color: #ffffff;
 }
 
 #newsletter .form{
@@ -472,7 +472,7 @@ body {
 }
 
 #newsletter button{
-    background-color: #24B500;
+    background-color: #614949;
     color: #fff;
     white-space: nowrap;
     border-top-left-radius: 0;
@@ -525,7 +525,7 @@ footer .follow i{
 }
 
 footer .install .row img{
-    border: 1px solid #24B500;
+    border: 1px solid #614949;
     border-radius: 6px;
 }
 
@@ -536,7 +536,7 @@ footer .install img{
 
 footer .follow i:hover,
 footer a:hover{
-    color: #24B500;
+    color: #614949;
 }
 
 footer .copyright{
@@ -570,7 +570,7 @@ footer .copyright{
 
 #pagination a {
     text-decoration: none;
-    background-color: #088178;
+    background-color: #B9A08A;
     padding: 15px 20px;
     border-radius: 4px;
     color: #fff;
@@ -639,7 +639,7 @@ footer .copyright{
 }
 
 #prodetails .single-pro-details button{
-    background: #088178;
+    background: #B9A08A;
     color: #fff;
 }
 
@@ -665,7 +665,7 @@ footer .copyright{
         right: -300px;
         height: 100vh;
         width: 300px;
-        background-color: #E3E6F3;
+        background-color: #B9A08A;
         box-shadow: 0 40px 60px rgba(0, 0, 0, 0.1);
         padding: 80px 0 0 10px;
         transition: 0.3s;
@@ -768,7 +768,7 @@ footer .copyright{
 
     #hero {
         padding: 0 20px;
-        background-position: 55%;
+        background-position: 65%;
     }
 
     #feature {
