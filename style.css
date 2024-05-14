@@ -81,7 +81,7 @@ body {
     align-items: center;
     justify-content: space-between;
     /* atasbawah, kirikanan */
-    padding: 20px 80px;
+    padding: 30px 80px;
     background-color: #B9A08A;
     /* dari x, y, radius */
     /* box shadow digunakan untuk menambahkan bayangan dibawah navbar */
@@ -1094,7 +1094,7 @@ footer .copyright{
     }
 
     #header {
-        padding: 10px 30px;
+        padding: 23px 30px;
     }
 
     h1 {
