@@ -511,7 +511,7 @@ footer a{
     font-size: 13px;
     text-decoration: none;
     color: #222;
-    margin: 10px;
+    margin: 10px 0 10px 0;
 }
 
 footer .follow {
